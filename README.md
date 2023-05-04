@@ -1,0 +1,2 @@
+# GliemisBot
+A discord bot
